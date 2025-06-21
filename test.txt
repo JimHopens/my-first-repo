@@ -1,1 +1,1 @@
-PHAROS = Chain
+PHAROS = ChainСтрока 1
